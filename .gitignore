@@ -1,0 +1,8 @@
+# .gitignore pour le projet
+__pycache__/
+*.pyc
+.vscode/
+.env/
+.dvc/
+.dvcignore
+*.log

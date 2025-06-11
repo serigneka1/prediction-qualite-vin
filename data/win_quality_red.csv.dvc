@@ -1,0 +1,5 @@
+outs:
+- md5: 033b916e485767ff0c3d4db2ea31d301
+  size: 101971
+  hash: md5
+  path: win_quality_red.csv
