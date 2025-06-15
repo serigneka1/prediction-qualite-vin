@@ -14,4 +14,5 @@ for file in os.listdir(path):
     df.to_csv("../data/win_quality_red.csv")
 
 
-    
+def get_data():
+    return pd.read_csv(full_path)
